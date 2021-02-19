@@ -28,7 +28,7 @@ But if you are a madlad and still want to make one for fun, here it is.  I'm not
 - Solder wires to other switch leads
 - Solder encoders to Pi Pico
 - Solder switch wires & ground to Pi Pico
-- Flash Pi Pico(hold button down when plugging in, drag and drop build/src/pico_sdvx.uf2 from repo Pico-SDVX and test
+- Flash Pi Pico(hold button down when plugging in, drag and drop build/src/pico_sdvx.uf2 from repo Pico-Game-Controller and test
 - Mount encoders with nut and washer
 - Flatten cables and snap Pi Pico into the cover.  Pull back on the clip a little if you need do.  Micro USB port into cutout first, then clip it in.
 - Close cover and screw together.  Add rubber feet.  Test to make sure everything still works.
