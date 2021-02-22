@@ -1,7 +1,11 @@
 # Pico-SDVX
 Honestly, don't make this controller.  Really.
 
+![Pico SDVX 1](pics/1.jpg)
+
 But if you are a madlad and still want to make one for fun, here it is.  I'm not intending to support this controller, as if you are making this I am assuming you are fine with fiddly soldering work and have built a controller already.
+
+![Pico SDVX 2](pics/2.jpg)
 
 ## Parts Required:
 - 1x Raspberry Pi Pico
@@ -18,6 +22,8 @@ But if you are a madlad and still want to make one for fun, here it is.  I'm not
 - 3D print Body, Cover, and Case(optional, but it's pretty cool tbh)
 - Vinyl skin for Body
 - 1x Micro USB Cable
+
+![Pico SDVX 3](pics/3.jpg)
 
 ## Assembly Instructions
 - Insert switches into case
