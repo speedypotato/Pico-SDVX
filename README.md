@@ -1,6 +1,8 @@
 # Pico-SDVX
 Honestly, don't make this controller.  Really.
 
+Join the discord for discussion and support! https://discord.gg/MmuKd73XbY
+
 ![Pico SDVX 1](pics/1.jpg)
 
 But if you are a madlad and still want to make one for fun, here it is.  I'm not intending to support this controller, as if you are making this I am assuming you are fine with fiddly soldering work and have built a controller already.
